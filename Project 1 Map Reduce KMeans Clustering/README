@@ -1,0 +1,2 @@
+The purpose of this project is to develop a simple Map-Reduce program on Hadoop that evaluates one step of k-means clustering
+I implemented this and run on a remote server that supported Hadoop, access provided by SDSC named as comet. 
